@@ -15,6 +15,6 @@
 <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" width="48">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="48">
 
-## <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width="38"> Codewars:
+## <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width="25"> Codewars:
 https://www.codewars.com/users/Timur298
 
