@@ -14,6 +14,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="48">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="48">
 
-## Codewars:
+## <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width="38"> Codewars:
 https://www.codewars.com/users/Timur298
 
